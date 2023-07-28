@@ -49,5 +49,6 @@ You can also modify existing badges.
 
 Tags are a shortname which can be connected to an event to indicate some metadata or status. A number of default tags are provided; you can add more via Workshops/Tags. 
 
-Once you add a tag and save, it only becomes available to select. 
+Once you add a tag and save, it only becomes available to select.
 
+<img src="https://github.com/tvanerven/materialsfrontend/raw/main/eu_logo.png" width="64" height="47">This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017536. The funding was awarded through the RDA (https://www.rd-alliance.org/) Open Call mechanism (https://eoscfuture-grants.eu/provider/research-data-alliance) based on evaluations of external, independent experts.
