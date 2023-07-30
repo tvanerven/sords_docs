@@ -52,3 +52,14 @@ Tags are a shortname which can be connected to an event to indicate some metadat
 Once you add a tag and save, it only becomes available to select.
 
 <img src="https://github.com/tvanerven/materialsfrontend/raw/main/eu_logo.png" width="64" height="47">This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017536. The funding was awarded through the RDA (https://www.rd-alliance.org/) Open Call mechanism (https://eoscfuture-grants.eu/provider/research-data-alliance) based on evaluations of external, independent experts.
+
+### Adding or changing terms
+
+Terms are policies which users need to accept before being allowed to create a profile. These are individually tracked by users, and can be accepted by users upon signup/sign-in in case of an update.
+
+These can be created manually as follows:
+
+- Login to Amy
+- Go to `https://amy.charminghat.nl/admin/consents/term`
+- Add your term. This includes the text it should provide, as well as how it should be formatted on the various form.
+- Save. For starters, the term is optional. In case you want to make it required, open the term you've just created, and update it to be required.
